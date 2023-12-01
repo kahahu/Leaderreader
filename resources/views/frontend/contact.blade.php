@@ -30,9 +30,9 @@
             <ul id='menu'>
               <li id='logo'>
                 <span>
-                  <img id='logo-image' src='images/favicon.png'>
+                  <img id='logo-image' src='images/favio.png'>
                 </span>
-                <h1>Maziwa Limited</h1>
+                <h1>leaderreader</h1>
               </li>
               <li id="l-logo">
               </li>
