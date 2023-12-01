@@ -6,6 +6,10 @@ use Illuminate\Support\Facades\Schema;
 
 return new class extends Migration
 {
+    use Migration;
+    //the model properties
+    protected $table ="settings";
+    protected $primaryKey ="id";
     /**
      * Run the migrations.
      */

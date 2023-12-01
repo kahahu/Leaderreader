@@ -1,5 +1,5 @@
 <?php
-
+namespace App\Models
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
